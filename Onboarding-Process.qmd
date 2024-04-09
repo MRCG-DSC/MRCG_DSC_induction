@@ -1,26 +1,18 @@
 ---
-title: "Onboarding-Process"
+title: "On-boarding Guide for Newcomers"
 format: html
 editor: visual
 ---
 
-## Induction Week
+## Introduction
 
-Schedule 1: Health & Safety Office visit
+Welcome to the Data Science Department at the Medical Research Council (MRC) Unit The Gambia! This document serves as a  guide to assist new team members during the onboarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment.
 
-## Running Code
+The department comprises both international and local staff, along with internship opportunities lasting a maximum of 6 months. Each staff category undergoes a distinct onboarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Internships
+## Local Staff 
+## International Staff 
 
-```{r}
-1 + 1
-```
 
-You can add options to executable code like this
 
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
