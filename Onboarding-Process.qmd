@@ -11,8 +11,18 @@ Welcome to the Data Science Department at the Medical Research Council (MRC) Uni
 The department comprises both international and local staff, along with internship opportunities lasting a maximum of 6 months. Each staff category undergoes a distinct onboarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
 
 ## Internships
-## Local Staff 
-## International Staff 
+### HR 
+
+### Security 
+
+### Health and safety
+
+### IT 
+
+### Clinical services 
+
+## Local staff 
+## International staff 
 
 
 
