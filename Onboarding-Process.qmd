@@ -6,23 +6,24 @@ editor: visual
 
 ## Introduction
 
-Welcome to the Data Science Department at the Medical Research Council (MRC) Unit The Gambia! This document serves as a  guide to assist new team members during the onboarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment.
+Welcome to the Data Science Department at the Medical Research Council (MRC) Unit The Gambia! This document serves as a guide to assist new team members during the onboarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment.
 
 The department comprises both international and local staff, along with internship opportunities lasting a maximum of 6 months. Each staff category undergoes a distinct onboarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
 
 ## Internships
-- HR 
 
-- Security 
+-   Health and Safety Office visit
 
-- Health and safety
+    It is the first visit made. You are oriented on health and safety-related issues such as accidents or hazards reporting, board sign meanings, the various emergency numbers, trash bin colour indications and so on. It lasts for about an hour. At the end of the session, you are given a ten-question test in which you are required to have at least five questions right (50 %) or otherwise return for the same sitting the following week, until passed.
 
-- IT 
+-   Security
 
-- Clinical services 
+-   
 
-## Local staff 
-## International staff 
+-   IT
 
+-   Clinical services
 
+## Local staff
 
+## International staff
