@@ -6,27 +6,33 @@ editor: visual
 
 ## Introduction
 
-Welcome to the Data Science Department at the Medical Research Council (MRC) Unit The Gambia! This document serves as a guide to assist new team members during the onboarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment.
+Welcome to the Data Science Department at the Medical Research Council Unit The Gambia at the London School of Hygiene and Tropical Medicine (MRCG\@LSHTM)!
 
-The department comprises both international and local staff, along with internship opportunities lasting a maximum of 6 months. Each staff category undergoes a distinct onboarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
+This document serves as a guide to assist new team members during the on-boarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment or internship.
 
-## Internships
+The department comprises both international and local staffs, along with internship opportunities lasting for a maximum of 6 months. Each staff category undergoes a distinct on-boarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
 
--   Health and Safety Office visit
+## Interns
 
-    It is the first visit made. You are oriented on health and safety-related issues such as accident and hazard reporting, board-sign meanings, the various emergency numbers, trash bin colour indications and so on. It lasts for about an hour. At the end of the session, you are given a ten-question test in which you are required to have at least five questions right (50 %) or otherwise return for the same sitting the following week until passed.
+-   Health and Safety induction
 
--   Security Office visit
+    During this induction, you are oriented on the health and safety guidelines such as accident and hazard reporting, board-sign meanings, the various emergency numbers, trash bin color indications, the fire assembly points, etc. More importantly, you will be introduced to best posture for your body while working with computers and how often you need to take a break to prevent muscle, eye pains and issues.
 
-    On my next visit, I visited the security office. I was provided with the MRC Unit student ID card carrying details such as my name, department, expiration date and card number for identification purposes. I was also given the access card to be able to have access to the department building. I was re-enlightened about the security practices I needed to follow for my safety and that of everyone in the unit.
+    It lasts for about an hour. At the end of the session, you will be asked ten questions to test your understanding of the topics been introduced to you. A minimum of five (5) right answers is required (50 %) or otherwise you will be asked to return for the same induction the following week until passed.
 
--   IT Lab visit
+-   Security Office
 
-    I visited the the IT lap at the IT department. A user account was created for me comprising of a default username and password, in which I needed to change the password to one that is confidential and meets the minimum requirements. I was also presented with an electronic article about the director of the unit, services provided by the HR department, and clinical services of the Gate Clinic and the IT department, respectively. Under each of those sections and upon completion of reading, you are required to do a test. You are needed to pass it with a score of at least 80% or redo the whole process.
+    The security office is located next to the main gate. This is where you will be provided with the MRCG\@LSHTM student ID card with the following details: name, department, expiration date and card number for identification purposes. You will also be given an access card to get you in the department building (MLB building). You will be re-enlightened about the security practices to follow for your safety and that of everyone in the unit.
 
--   Communications Department visit
+-   IT Department
 
-    Under the communications department, we were oriented on the various ways communication is done among employees within the unit. Seminars and weekly newsletters were also treated. It lasts for about an hour.
+    This is a crucial step of the on-boarding process. New interns will go through an induction where they are presented with an electronic article about the director of the unit, services provided by the HR department, and clinical services at the Gate Clinic and the IT department, respectively. After completion of the different sections, the intern will be subjected to a test. You are needed to pass it with a score of at least 80% or redo the whole process.
+
+    When it is successfully completed, a user account is created for you with a default password. You can update this password immediately after.
+
+-   Communications Department
+
+    During the communications induction, you are introduced to the various ways of communication within the unit, the seminars, the weekly newsletters, and a list of to do and not do things. It can last for about an hour.
 
 ## Local staff
 
