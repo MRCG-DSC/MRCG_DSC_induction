@@ -31,3 +31,8 @@ You can also embed plots, for example:
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub.
+
+# MRCG DSC Induction
+
+This document outlines the onboarding process for newcomers at the  Data Science Cluster at MRCG@LSHTM.
+
