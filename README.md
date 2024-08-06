@@ -4,9 +4,8 @@
 # Welcome to The MRCG_DSC_Induction Repository
 
 <!-- badges: start -->
-<!-- badges: end -->
 
-## What Is This Repo About?
+## What Is This Repositoy About?
 
 This induction repository is typically a centralized location where our
 new contributors (interns or local/international staff ) to the MRC Data
@@ -16,19 +15,17 @@ work.
 It’s designed to provide a structured onboarding experience, helping new
 hires quickly become productive members of the team.
 
-It contains useful resources such as relevant documentation, useful
-links and people to contact for help.
+It contains useful resources such as relevant documentation and people
+to contact for help.
 
 ## Why is it created?
 
-By providing a comprehensive resource, induction repositories streamline
-the onboarding process, reduce errors, and ensure consistency among team
-members.
-
 This GitHub induction repository is created to streamline the onboarding
-process for new team members. It serves as a centralized knowledge base,
-providing essential information and resources to help new hires quickly
-get up to speed with the project, team, and organization.
+process for new team members.
+
+It serves as a centralized knowledge base, providing essential
+information and resources to help new hires quickly get up to speed with
+the project, team, and organization.
 
 Key benefits of creating this induction repository include:
 
@@ -36,9 +33,13 @@ Key benefits of creating this induction repository include:
   providing a clear path to follow.
 
 - Consistency: Ensures all new hires receive the same information and
-  training. Knowledge retention: Serves as a valuable resource for
-  future reference. Improved collaboration: Fosters a shared
-  understanding of project goals and processes.
+  training.
+
+- Knowledge retention: Serves as a valuable resource for future
+  reference.
+
+- Improved collaboration: Fosters a shared understanding of project
+  goals and processes.
 
 - Reduced onboarding time: New hires can become productive members of
   the team faster.
@@ -52,20 +53,16 @@ increases employee productivity of the organization.
 
 ## What does it contain?
 
-- Common Contents of an Induction Repository: A high-level description
-  of the onboarding process of the organization and the Data Science
-  Cluster.
+- A high-level description of the onboarding process of the organization
+  and the Data Science Cluster.
 
 - A detailed documentation of the typical onboarding process
 
-- Useful Links to relevant information
-
 - References when you need help.
-
-## Useful links:
 
 ## People to Contact for Help:
 
-1.  Bubacarr Bah, Head of the Data Sciece Cluster, MRCG
-2.  Gilleh Thomas, Head of the Applications Development, MRCG
-3.  Bai Lamin Dondeh, Head of the Data Management & Achieve, MRCG
+1.  Bubacarr Bah, Head of Data Science, MRCG
+2.  Alimatou Sallah, Admin Manager, Data Science, MRCG
+3.  Haddy Touray, Jr. Admin Assistant, Training and Career Development,
+    MRCG
