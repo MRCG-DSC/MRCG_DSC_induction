@@ -1,0 +1,34 @@
+
+## Introduction
+
+Welcome to the Data Science Department at the Medical Research Council Unit The Gambia at the London School of Hygiene and Tropical Medicine (MRCG\@LSHTM)!
+
+This document serves as a guide to assist new team members during the onboarding process. Our goal is to ensure a smooth transition into your new role and provide clarity on your responsibilities during the initial phase of employment or internship.
+
+The department comprises both international and local staff, along with internship opportunities lasting for a maximum of 6 months. Each staff category undergoes a distinct onboarding process, albeit with some overlapping elements. Consequently, this document is structured according to staff categories.
+
+## Interns
+
+-   ID Badge Photos & Security Briefing
+
+The security office is located next to the entrance of the main gate. This is where you will be provided with the MRCG\@LSHTM student ID card with the following details: name, department, expiration date, and card number for identification purposes. You will also be given an access card to get you into the department building (MLB building). You will be enlightened about the security practices to follow for your safety and that of everyone in the unit.
+
+-   Health and Safety induction
+
+    During this induction, you are oriented on the health and safety guidelines such as accident and hazard reporting, board-sign and the different trash bin colour meanings, the various emergency numbers, the fire assembly points, etc. More importantly, you will be introduced to the best postures for your body while working with computers and how often you need to take a break to prevent muscle and eye-related injuries.
+
+    It lasts for about an hour. At the end of the session, you will be asked ten questions to test your understanding of the topics being introduced to you. A minimum of five (5) correct answers is required (50 %) or otherwise you will be asked to return for the same induction the following week until passed.
+
+-   IT induction
+
+    This is a crucial step of the onboarding process. New interns will go through an induction where they are presented with an electronic article about the IT department, the director of the unit, various roles of the HR department, and all the clinical services available at the Gate and Staff Clinics. After completion of the different sections, the intern will be subjected to a test. You are required to pass it with a score of at least 80% or redo the whole process.
+
+    From the beginning, a user account is created for you with a default password. You need to update this password immediately before you can proceed any further.
+
+-   Communications induction
+
+    This is the last schedule of the induction week. During the communications induction, you are introduced to the various ways of communication within the unit, such as emails, seminars, weekly newsletters and meetings. The duration is also about an hour.
+
+## Local staff
+
+## International staff

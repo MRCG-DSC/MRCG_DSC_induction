@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  #title: "Onboarding process"
+  navbar:
+    background: secondary
+    search: true
+    pinned: true
+    left:
+        - text: "The Data Science cluster"
+          href: index.qmd
+        - text: "Onboarding"
+          menu:
+            - text: "description"
+              href: onboarding.qmd
+            - text: "onboarding process"
+              href: processes.qmd
+          
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    toc-location: left
+
+editor: visual
